@@ -1,0 +1,11 @@
+C:\Users\alfon\source\repos\stringToInteger\stringToInteger\bin\Debug\netcoreapp3.0\stringToInteger.exe
+C:\Users\alfon\source\repos\stringToInteger\stringToInteger\bin\Debug\netcoreapp3.0\stringToInteger.deps.json
+C:\Users\alfon\source\repos\stringToInteger\stringToInteger\bin\Debug\netcoreapp3.0\stringToInteger.runtimeconfig.json
+C:\Users\alfon\source\repos\stringToInteger\stringToInteger\bin\Debug\netcoreapp3.0\stringToInteger.runtimeconfig.dev.json
+C:\Users\alfon\source\repos\stringToInteger\stringToInteger\bin\Debug\netcoreapp3.0\stringToInteger.dll
+C:\Users\alfon\source\repos\stringToInteger\stringToInteger\bin\Debug\netcoreapp3.0\stringToInteger.pdb
+C:\Users\alfon\source\repos\stringToInteger\stringToInteger\obj\Debug\netcoreapp3.0\stringToInteger.csprojAssemblyReference.cache
+C:\Users\alfon\source\repos\stringToInteger\stringToInteger\obj\Debug\netcoreapp3.0\stringToInteger.AssemblyInfoInputs.cache
+C:\Users\alfon\source\repos\stringToInteger\stringToInteger\obj\Debug\netcoreapp3.0\stringToInteger.AssemblyInfo.cs
+C:\Users\alfon\source\repos\stringToInteger\stringToInteger\obj\Debug\netcoreapp3.0\stringToInteger.dll
+C:\Users\alfon\source\repos\stringToInteger\stringToInteger\obj\Debug\netcoreapp3.0\stringToInteger.pdb

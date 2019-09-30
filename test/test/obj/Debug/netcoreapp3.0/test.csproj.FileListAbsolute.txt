@@ -1,0 +1,10 @@
+C:\Users\alfon\source\repos\test\test\bin\Debug\netcoreapp3.0\test.exe
+C:\Users\alfon\source\repos\test\test\bin\Debug\netcoreapp3.0\test.deps.json
+C:\Users\alfon\source\repos\test\test\bin\Debug\netcoreapp3.0\test.runtimeconfig.json
+C:\Users\alfon\source\repos\test\test\bin\Debug\netcoreapp3.0\test.runtimeconfig.dev.json
+C:\Users\alfon\source\repos\test\test\bin\Debug\netcoreapp3.0\test.dll
+C:\Users\alfon\source\repos\test\test\bin\Debug\netcoreapp3.0\test.pdb
+C:\Users\alfon\source\repos\test\test\obj\Debug\netcoreapp3.0\test.AssemblyInfoInputs.cache
+C:\Users\alfon\source\repos\test\test\obj\Debug\netcoreapp3.0\test.AssemblyInfo.cs
+C:\Users\alfon\source\repos\test\test\obj\Debug\netcoreapp3.0\test.dll
+C:\Users\alfon\source\repos\test\test\obj\Debug\netcoreapp3.0\test.pdb

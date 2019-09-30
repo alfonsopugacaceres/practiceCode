@@ -1,0 +1,10 @@
+C:\Users\alfon\source\repos\removeNthNodeFromEndOfList\removeNthNodeFromEndOfList\bin\Debug\netcoreapp3.0\removeNthNodeFromEndOfList.exe
+C:\Users\alfon\source\repos\removeNthNodeFromEndOfList\removeNthNodeFromEndOfList\bin\Debug\netcoreapp3.0\removeNthNodeFromEndOfList.deps.json
+C:\Users\alfon\source\repos\removeNthNodeFromEndOfList\removeNthNodeFromEndOfList\bin\Debug\netcoreapp3.0\removeNthNodeFromEndOfList.runtimeconfig.json
+C:\Users\alfon\source\repos\removeNthNodeFromEndOfList\removeNthNodeFromEndOfList\bin\Debug\netcoreapp3.0\removeNthNodeFromEndOfList.runtimeconfig.dev.json
+C:\Users\alfon\source\repos\removeNthNodeFromEndOfList\removeNthNodeFromEndOfList\bin\Debug\netcoreapp3.0\removeNthNodeFromEndOfList.dll
+C:\Users\alfon\source\repos\removeNthNodeFromEndOfList\removeNthNodeFromEndOfList\bin\Debug\netcoreapp3.0\removeNthNodeFromEndOfList.pdb
+C:\Users\alfon\source\repos\removeNthNodeFromEndOfList\removeNthNodeFromEndOfList\obj\Debug\netcoreapp3.0\removeNthNodeFromEndOfList.AssemblyInfoInputs.cache
+C:\Users\alfon\source\repos\removeNthNodeFromEndOfList\removeNthNodeFromEndOfList\obj\Debug\netcoreapp3.0\removeNthNodeFromEndOfList.AssemblyInfo.cs
+C:\Users\alfon\source\repos\removeNthNodeFromEndOfList\removeNthNodeFromEndOfList\obj\Debug\netcoreapp3.0\removeNthNodeFromEndOfList.dll
+C:\Users\alfon\source\repos\removeNthNodeFromEndOfList\removeNthNodeFromEndOfList\obj\Debug\netcoreapp3.0\removeNthNodeFromEndOfList.pdb

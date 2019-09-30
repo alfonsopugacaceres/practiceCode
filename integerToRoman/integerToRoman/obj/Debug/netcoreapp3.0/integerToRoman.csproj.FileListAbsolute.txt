@@ -1,0 +1,10 @@
+C:\Users\alfon\source\repos\integerToRoman\integerToRoman\bin\Debug\netcoreapp3.0\integerToRoman.exe
+C:\Users\alfon\source\repos\integerToRoman\integerToRoman\bin\Debug\netcoreapp3.0\integerToRoman.deps.json
+C:\Users\alfon\source\repos\integerToRoman\integerToRoman\bin\Debug\netcoreapp3.0\integerToRoman.runtimeconfig.json
+C:\Users\alfon\source\repos\integerToRoman\integerToRoman\bin\Debug\netcoreapp3.0\integerToRoman.runtimeconfig.dev.json
+C:\Users\alfon\source\repos\integerToRoman\integerToRoman\bin\Debug\netcoreapp3.0\integerToRoman.dll
+C:\Users\alfon\source\repos\integerToRoman\integerToRoman\bin\Debug\netcoreapp3.0\integerToRoman.pdb
+C:\Users\alfon\source\repos\integerToRoman\integerToRoman\obj\Debug\netcoreapp3.0\integerToRoman.AssemblyInfoInputs.cache
+C:\Users\alfon\source\repos\integerToRoman\integerToRoman\obj\Debug\netcoreapp3.0\integerToRoman.AssemblyInfo.cs
+C:\Users\alfon\source\repos\integerToRoman\integerToRoman\obj\Debug\netcoreapp3.0\integerToRoman.dll
+C:\Users\alfon\source\repos\integerToRoman\integerToRoman\obj\Debug\netcoreapp3.0\integerToRoman.pdb

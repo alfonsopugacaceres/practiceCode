@@ -1,0 +1,10 @@
+C:\Users\alfon\source\repos\LongestPalindromeString\LongestPalindromeString\bin\Debug\netcoreapp3.0\LongestPalindromeString.exe
+C:\Users\alfon\source\repos\LongestPalindromeString\LongestPalindromeString\bin\Debug\netcoreapp3.0\LongestPalindromeString.deps.json
+C:\Users\alfon\source\repos\LongestPalindromeString\LongestPalindromeString\bin\Debug\netcoreapp3.0\LongestPalindromeString.runtimeconfig.json
+C:\Users\alfon\source\repos\LongestPalindromeString\LongestPalindromeString\bin\Debug\netcoreapp3.0\LongestPalindromeString.runtimeconfig.dev.json
+C:\Users\alfon\source\repos\LongestPalindromeString\LongestPalindromeString\bin\Debug\netcoreapp3.0\LongestPalindromeString.dll
+C:\Users\alfon\source\repos\LongestPalindromeString\LongestPalindromeString\bin\Debug\netcoreapp3.0\LongestPalindromeString.pdb
+C:\Users\alfon\source\repos\LongestPalindromeString\LongestPalindromeString\obj\Debug\netcoreapp3.0\LongestPalindromeString.AssemblyInfoInputs.cache
+C:\Users\alfon\source\repos\LongestPalindromeString\LongestPalindromeString\obj\Debug\netcoreapp3.0\LongestPalindromeString.AssemblyInfo.cs
+C:\Users\alfon\source\repos\LongestPalindromeString\LongestPalindromeString\obj\Debug\netcoreapp3.0\LongestPalindromeString.dll
+C:\Users\alfon\source\repos\LongestPalindromeString\LongestPalindromeString\obj\Debug\netcoreapp3.0\LongestPalindromeString.pdb

@@ -1,0 +1,10 @@
+C:\Users\alfon\source\repos\practiceProblems\practiceProblems\bin\Debug\netcoreapp3.0\practiceProblems.exe
+C:\Users\alfon\source\repos\practiceProblems\practiceProblems\bin\Debug\netcoreapp3.0\practiceProblems.deps.json
+C:\Users\alfon\source\repos\practiceProblems\practiceProblems\bin\Debug\netcoreapp3.0\practiceProblems.runtimeconfig.json
+C:\Users\alfon\source\repos\practiceProblems\practiceProblems\bin\Debug\netcoreapp3.0\practiceProblems.runtimeconfig.dev.json
+C:\Users\alfon\source\repos\practiceProblems\practiceProblems\bin\Debug\netcoreapp3.0\practiceProblems.dll
+C:\Users\alfon\source\repos\practiceProblems\practiceProblems\bin\Debug\netcoreapp3.0\practiceProblems.pdb
+C:\Users\alfon\source\repos\practiceProblems\practiceProblems\obj\Debug\netcoreapp3.0\practiceProblems.AssemblyInfoInputs.cache
+C:\Users\alfon\source\repos\practiceProblems\practiceProblems\obj\Debug\netcoreapp3.0\practiceProblems.AssemblyInfo.cs
+C:\Users\alfon\source\repos\practiceProblems\practiceProblems\obj\Debug\netcoreapp3.0\practiceProblems.dll
+C:\Users\alfon\source\repos\practiceProblems\practiceProblems\obj\Debug\netcoreapp3.0\practiceProblems.pdb

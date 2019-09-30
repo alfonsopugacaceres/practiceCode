@@ -1,0 +1,10 @@
+C:\Users\alfon\source\repos\addTwoNumbers\addTwoNumbers\bin\Debug\netcoreapp3.0\addTwoNumbers.exe
+C:\Users\alfon\source\repos\addTwoNumbers\addTwoNumbers\bin\Debug\netcoreapp3.0\addTwoNumbers.deps.json
+C:\Users\alfon\source\repos\addTwoNumbers\addTwoNumbers\bin\Debug\netcoreapp3.0\addTwoNumbers.runtimeconfig.json
+C:\Users\alfon\source\repos\addTwoNumbers\addTwoNumbers\bin\Debug\netcoreapp3.0\addTwoNumbers.runtimeconfig.dev.json
+C:\Users\alfon\source\repos\addTwoNumbers\addTwoNumbers\bin\Debug\netcoreapp3.0\addTwoNumbers.dll
+C:\Users\alfon\source\repos\addTwoNumbers\addTwoNumbers\bin\Debug\netcoreapp3.0\addTwoNumbers.pdb
+C:\Users\alfon\source\repos\addTwoNumbers\addTwoNumbers\obj\Debug\netcoreapp3.0\addTwoNumbers.AssemblyInfoInputs.cache
+C:\Users\alfon\source\repos\addTwoNumbers\addTwoNumbers\obj\Debug\netcoreapp3.0\addTwoNumbers.AssemblyInfo.cs
+C:\Users\alfon\source\repos\addTwoNumbers\addTwoNumbers\obj\Debug\netcoreapp3.0\addTwoNumbers.dll
+C:\Users\alfon\source\repos\addTwoNumbers\addTwoNumbers\obj\Debug\netcoreapp3.0\addTwoNumbers.pdb

@@ -1,0 +1,10 @@
+C:\Users\alfon\source\repos\zigZagConversion\zigZagConversion\obj\Debug\netcoreapp3.0\zigZagConversion.AssemblyInfoInputs.cache
+C:\Users\alfon\source\repos\zigZagConversion\zigZagConversion\obj\Debug\netcoreapp3.0\zigZagConversion.AssemblyInfo.cs
+C:\Users\alfon\source\repos\zigZagConversion\zigZagConversion\bin\Debug\netcoreapp3.0\zigZagConversion.exe
+C:\Users\alfon\source\repos\zigZagConversion\zigZagConversion\bin\Debug\netcoreapp3.0\zigZagConversion.deps.json
+C:\Users\alfon\source\repos\zigZagConversion\zigZagConversion\bin\Debug\netcoreapp3.0\zigZagConversion.runtimeconfig.json
+C:\Users\alfon\source\repos\zigZagConversion\zigZagConversion\bin\Debug\netcoreapp3.0\zigZagConversion.runtimeconfig.dev.json
+C:\Users\alfon\source\repos\zigZagConversion\zigZagConversion\bin\Debug\netcoreapp3.0\zigZagConversion.dll
+C:\Users\alfon\source\repos\zigZagConversion\zigZagConversion\bin\Debug\netcoreapp3.0\zigZagConversion.pdb
+C:\Users\alfon\source\repos\zigZagConversion\zigZagConversion\obj\Debug\netcoreapp3.0\zigZagConversion.dll
+C:\Users\alfon\source\repos\zigZagConversion\zigZagConversion\obj\Debug\netcoreapp3.0\zigZagConversion.pdb

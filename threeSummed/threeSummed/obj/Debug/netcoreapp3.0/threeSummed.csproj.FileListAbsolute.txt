@@ -1,0 +1,10 @@
+C:\Users\alfon\source\repos\threeSummed\threeSummed\bin\Debug\netcoreapp3.0\threeSummed.exe
+C:\Users\alfon\source\repos\threeSummed\threeSummed\bin\Debug\netcoreapp3.0\threeSummed.deps.json
+C:\Users\alfon\source\repos\threeSummed\threeSummed\bin\Debug\netcoreapp3.0\threeSummed.runtimeconfig.json
+C:\Users\alfon\source\repos\threeSummed\threeSummed\bin\Debug\netcoreapp3.0\threeSummed.runtimeconfig.dev.json
+C:\Users\alfon\source\repos\threeSummed\threeSummed\bin\Debug\netcoreapp3.0\threeSummed.dll
+C:\Users\alfon\source\repos\threeSummed\threeSummed\bin\Debug\netcoreapp3.0\threeSummed.pdb
+C:\Users\alfon\source\repos\threeSummed\threeSummed\obj\Debug\netcoreapp3.0\threeSummed.AssemblyInfoInputs.cache
+C:\Users\alfon\source\repos\threeSummed\threeSummed\obj\Debug\netcoreapp3.0\threeSummed.AssemblyInfo.cs
+C:\Users\alfon\source\repos\threeSummed\threeSummed\obj\Debug\netcoreapp3.0\threeSummed.dll
+C:\Users\alfon\source\repos\threeSummed\threeSummed\obj\Debug\netcoreapp3.0\threeSummed.pdb

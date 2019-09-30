@@ -1,0 +1,10 @@
+C:\Users\alfon\source\repos\medianOfTwoSortedArrays\medianOfTwoSortedArrays\bin\Debug\netcoreapp3.0\medianOfTwoSortedArrays.exe
+C:\Users\alfon\source\repos\medianOfTwoSortedArrays\medianOfTwoSortedArrays\bin\Debug\netcoreapp3.0\medianOfTwoSortedArrays.deps.json
+C:\Users\alfon\source\repos\medianOfTwoSortedArrays\medianOfTwoSortedArrays\bin\Debug\netcoreapp3.0\medianOfTwoSortedArrays.runtimeconfig.json
+C:\Users\alfon\source\repos\medianOfTwoSortedArrays\medianOfTwoSortedArrays\bin\Debug\netcoreapp3.0\medianOfTwoSortedArrays.runtimeconfig.dev.json
+C:\Users\alfon\source\repos\medianOfTwoSortedArrays\medianOfTwoSortedArrays\bin\Debug\netcoreapp3.0\medianOfTwoSortedArrays.dll
+C:\Users\alfon\source\repos\medianOfTwoSortedArrays\medianOfTwoSortedArrays\bin\Debug\netcoreapp3.0\medianOfTwoSortedArrays.pdb
+C:\Users\alfon\source\repos\medianOfTwoSortedArrays\medianOfTwoSortedArrays\obj\Debug\netcoreapp3.0\medianOfTwoSortedArrays.AssemblyInfoInputs.cache
+C:\Users\alfon\source\repos\medianOfTwoSortedArrays\medianOfTwoSortedArrays\obj\Debug\netcoreapp3.0\medianOfTwoSortedArrays.AssemblyInfo.cs
+C:\Users\alfon\source\repos\medianOfTwoSortedArrays\medianOfTwoSortedArrays\obj\Debug\netcoreapp3.0\medianOfTwoSortedArrays.dll
+C:\Users\alfon\source\repos\medianOfTwoSortedArrays\medianOfTwoSortedArrays\obj\Debug\netcoreapp3.0\medianOfTwoSortedArrays.pdb

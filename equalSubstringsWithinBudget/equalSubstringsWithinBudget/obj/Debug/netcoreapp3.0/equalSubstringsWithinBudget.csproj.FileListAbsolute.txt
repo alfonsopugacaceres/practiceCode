@@ -1,0 +1,10 @@
+C:\Users\alfon\source\repos\equalSubstringsWithinBudget\equalSubstringsWithinBudget\bin\Debug\netcoreapp3.0\equalSubstringsWithinBudget.exe
+C:\Users\alfon\source\repos\equalSubstringsWithinBudget\equalSubstringsWithinBudget\bin\Debug\netcoreapp3.0\equalSubstringsWithinBudget.deps.json
+C:\Users\alfon\source\repos\equalSubstringsWithinBudget\equalSubstringsWithinBudget\bin\Debug\netcoreapp3.0\equalSubstringsWithinBudget.runtimeconfig.json
+C:\Users\alfon\source\repos\equalSubstringsWithinBudget\equalSubstringsWithinBudget\bin\Debug\netcoreapp3.0\equalSubstringsWithinBudget.runtimeconfig.dev.json
+C:\Users\alfon\source\repos\equalSubstringsWithinBudget\equalSubstringsWithinBudget\bin\Debug\netcoreapp3.0\equalSubstringsWithinBudget.dll
+C:\Users\alfon\source\repos\equalSubstringsWithinBudget\equalSubstringsWithinBudget\bin\Debug\netcoreapp3.0\equalSubstringsWithinBudget.pdb
+C:\Users\alfon\source\repos\equalSubstringsWithinBudget\equalSubstringsWithinBudget\obj\Debug\netcoreapp3.0\equalSubstringsWithinBudget.AssemblyInfoInputs.cache
+C:\Users\alfon\source\repos\equalSubstringsWithinBudget\equalSubstringsWithinBudget\obj\Debug\netcoreapp3.0\equalSubstringsWithinBudget.AssemblyInfo.cs
+C:\Users\alfon\source\repos\equalSubstringsWithinBudget\equalSubstringsWithinBudget\obj\Debug\netcoreapp3.0\equalSubstringsWithinBudget.dll
+C:\Users\alfon\source\repos\equalSubstringsWithinBudget\equalSubstringsWithinBudget\obj\Debug\netcoreapp3.0\equalSubstringsWithinBudget.pdb

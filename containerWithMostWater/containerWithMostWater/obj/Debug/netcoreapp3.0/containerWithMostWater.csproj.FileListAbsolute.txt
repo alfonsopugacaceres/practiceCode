@@ -1,0 +1,10 @@
+C:\Users\alfon\source\repos\containerWithMostWater\containerWithMostWater\obj\Debug\netcoreapp3.0\containerWithMostWater.AssemblyInfoInputs.cache
+C:\Users\alfon\source\repos\containerWithMostWater\containerWithMostWater\obj\Debug\netcoreapp3.0\containerWithMostWater.AssemblyInfo.cs
+C:\Users\alfon\source\repos\containerWithMostWater\containerWithMostWater\bin\Debug\netcoreapp3.0\containerWithMostWater.exe
+C:\Users\alfon\source\repos\containerWithMostWater\containerWithMostWater\bin\Debug\netcoreapp3.0\containerWithMostWater.deps.json
+C:\Users\alfon\source\repos\containerWithMostWater\containerWithMostWater\bin\Debug\netcoreapp3.0\containerWithMostWater.runtimeconfig.json
+C:\Users\alfon\source\repos\containerWithMostWater\containerWithMostWater\bin\Debug\netcoreapp3.0\containerWithMostWater.runtimeconfig.dev.json
+C:\Users\alfon\source\repos\containerWithMostWater\containerWithMostWater\bin\Debug\netcoreapp3.0\containerWithMostWater.dll
+C:\Users\alfon\source\repos\containerWithMostWater\containerWithMostWater\bin\Debug\netcoreapp3.0\containerWithMostWater.pdb
+C:\Users\alfon\source\repos\containerWithMostWater\containerWithMostWater\obj\Debug\netcoreapp3.0\containerWithMostWater.dll
+C:\Users\alfon\source\repos\containerWithMostWater\containerWithMostWater\obj\Debug\netcoreapp3.0\containerWithMostWater.pdb
